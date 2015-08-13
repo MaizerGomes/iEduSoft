@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Events;
+namespace iEduSoft\Events;
 
 abstract class Event
 {

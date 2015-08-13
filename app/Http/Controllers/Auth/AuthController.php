@@ -1,10 +1,10 @@
 <?php
 
-namespace App\Http\Controllers\Auth;
+namespace iEduSoft\Http\Controllers\Auth;
 
-use App\User;
+use iEduSoft\User;
 use Validator;
-use App\Http\Controllers\Controller;
+use iEduSoft\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\ThrottlesLogins;
 use Illuminate\Foundation\Auth\AuthenticatesAndRegistersUsers;
 
