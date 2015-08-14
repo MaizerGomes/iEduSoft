@@ -1,6 +1,7 @@
 {
   "name": "idealsolutions/iedusoft",
   "description": "O Sistema de Gestão Académica da iDealSolutions",
+  "version": "1.0.0-dev",
   "keywords": [
     "laravel",
     "educacao",
@@ -8,6 +9,15 @@
   ],
   "license": "MIT",
   "type": "project",
+  "homepage": "https://maizergomes.github.io/iEduSoft",
+  "authors": [
+    {
+      "name": "Maizer Gomes",
+      "email": "maizer.gomes@gmail.com",
+      "homepage": "https://maizergomes.github.io",
+      "role": "Developer"
+    }
+  ],
   "require": {
     "php": ">=5.5.9",
     "laravel/framework": "5.1.*",
