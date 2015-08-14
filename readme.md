@@ -1,21 +1,21 @@
-## iEduSoft - O Sistema de Gest„o AcadÈmica
+## iEduSoft - O Sistema de Gest√£o Acad√©mica
 
 [![Latest Stable Version](https://poser.pugx.org/idealsolutions/iedusoft/v/stable)](https://packagist.org/packages/idealsolutions/iedusoft)
 [![Total Downloads](https://poser.pugx.org/idealsolutions/iedusoft/downloads)](https://packagist.org/packages/idealsolutions/iedusoft) 
 [![Latest Unstable Version](https://poser.pugx.org/idealsolutions/iedusoft/v/unstable)](https://packagist.org/packages/idealsolutions/iedusoft) 
 [![License](https://poser.pugx.org/idealsolutions/iedusoft/license)](https://packagist.org/packages/idealsolutions/iedusoft)
 
-iEduSoft È um Sistema de Gest„o AcadÈmica voltada para a administraÁ„o de InstituiÁıes AcadÈmicas.
+iEduSoft √© um Sistema de Gest√£o Acad√©mica voltada para a administra√ß√£o de Institui√ß√µes Acad√©micas.
 
-## DocumentaÁ„o Oficial
+## Documenta√ßao Oficial
 
-DocumentaÁ„o oficial pode ser encontrada em  [Docs](http://maizergomes.github.io/iEduSoft/docs/master).
+Documenta√ß√£o oficial pode ser encontrada em  [Docs](http://maizergomes.github.io/iEduSoft/docs/master).
 
-## ContribuiÁ„o
+## Contribui√ß√£o
 
 
 ## Vulnerabilidades
 
 
-### LicenÁa
+### Licen√ßa
 
